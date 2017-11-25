@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #
-# etherdeltaclient.py: EtherDelta API Client Service for python3 using websockets
+# etherdeltaclientservice.py: EtherDelta API Client Service for python3 using websockets
 # ===============================================================================
 #
 # This service will connect to EtherDelta's WebSocket API,
